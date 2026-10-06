@@ -2,6 +2,9 @@
 
 <img src="screenshots/home.png" width="85%" alt="TCG Dream Arena home screen">
 
+<img src="screenshots/trainer_card.png" width="42%" alt="Trainer Card profile"> <img src="screenshots/decks.png" width="42%" alt="Decks"><br>
+<img src="screenshots/playmat.png" width="42%" alt="Battle on an animated playmat"> <img src="screenshots/creator.png" width="42%" alt="Character Creator">
+
 # TCG Dream Arena
 
 **A fan-made, classic-era Pokémon Trading Card Game for Windows.**
@@ -46,9 +49,14 @@ above once. It updates in place and keeps your saves.
 | 🏆 **Tournaments** | Bracket tournaments with entry fees and growing prizes. |
 | 🃏 **Collection & Card Dex** | Collect the classic sets, plus promos. Sort, filter and inspect every card. |
 | 🛒 **Shop & packs** | Earn coins by playing and spend them on booster packs, theme decks and singles. |
-| 🧰 **Deck builder** | Build, save and share decks with team codes. |
+| 🧰 **Decks** | 3D deck boxes with real cover art, favourites, clear "deck invalid" reasons, a full deck builder and test draws. Share decks with team codes. |
 | 🎯 **Tasks, achievements & profile** | Weekly tasks, achievements, avatar frames that level up with you, match history, win streaks. |
 | 🧪 **Play yourself** | Control both sides to test decks and card combos. |
+| 🧑‍🎤 **Character Creator** | Design your own anime-style trainer (male or female): hair, outfits, caps, accessories. Unlock extra wardrobe items with coins. |
+| 🪪 **Trainer Card** | A holo Trainer ID with your level, a badge case for Gym badges, a showcase for your 3 favourite cards, stats and medals. |
+| 🖼️ **Level frames** | 11 hand-painted portrait frames from Trainer to Legendary, plus glowing prestige tiers. |
+| 🎴 **Playmats** | 21 animated, full-screen playmats: lava, ocean, forest, lightning, cosmic, marble and classic felt. |
+| 📦 **Pack opening** | Pull across the top of a pack to tear it open; Rare Holo pulls get a special holo reveal. |
 
 ### Faithful rules
 The game follows the original-era rules closely, including tricky cards:
