@@ -42,6 +42,7 @@ above once. It updates in place and keeps your saves.
 
 | | |
 |---|---|
+| 👥 **Friends & online** | Always-on official server: add friends by friend code, see who's online or in a match, invite them to a private battle, and optionally back up your profile to the cloud. |
 | ⚔️ **Single player** | Battle a tactical CPU at several difficulties. |
 | 🏅 **Gym Leader Challenge** | Beat the Gym Leaders with their themed decks and earn badges. |
 | ⚡ **Quick Challenge** | One-off battles with twists: fewer Prizes, Sudden Death, Fast Energy, Random Stadium, Type Clash and more. Win coins and cards (3 rewarded wins a day). |
