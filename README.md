@@ -1,111 +1,124 @@
 <div align="center">
 
-<img src="screenshots/home.png" width="85%" alt="TCG Dream Arena home screen">
-
-<img src="screenshots/trainer_card.png" width="42%" alt="Trainer Card profile"> <img src="screenshots/decks.png" width="42%" alt="Decks"><br>
-<img src="screenshots/playmat.png" width="42%" alt="Battle on an animated playmat"> <img src="screenshots/creator.png" width="42%" alt="Character Creator">
+<img src="screenshots/home-menu.jpg" width="90%" alt="TCG Dream Arena home screen with the Pokémon Dream Arena logo, single-player options and match settings">
 
 # TCG Dream Arena
 
-**A fan-made, classic-era Pokémon Trading Card Game for Windows.**
-Battle the CPU, take on the Gym Leaders, open booster packs, build decks,
-and play your friends online.
+**The classic Pokémon Trading Card Game, rebuilt for Windows.**
+Classic-era cards from Base Set to Neo, faithful old-school rules, Gym Leaders, booster boxes and an always-on online server. Free and fan-made.
 
-[![Download](https://img.shields.io/badge/Download-Windows%20installer-e7c667?style=for-the-badge)](https://github.com/pavlesuto-private/TCG-Dream-Arena-Releases/releases/latest/download/TCG-Dream-Arena-Setup.exe)
+[![Download for Windows](https://img.shields.io/badge/Download-Windows%20installer-e7c667?style=for-the-badge&logo=windows&logoColor=black)](https://github.com/pavlesuto-private/TCG-Dream-Arena-Releases/releases/latest/download/TCG-Dream-Arena-Setup.exe)
 [![Latest release](https://img.shields.io/github/v/release/pavlesuto-private/TCG-Dream-Arena-Releases?label=latest&style=for-the-badge)](https://github.com/pavlesuto-private/TCG-Dream-Arena-Releases/releases/latest)
+[![Card tier list](https://img.shields.io/badge/Card%20tier%20list-play.tcgdreamarena.org-4a7bd0?style=for-the-badge)](https://play.tcgdreamarena.org/meta)
 
 </div>
 
 ---
 
-## ⬇️ Install
+## What's new in 2.2.2
 
-1. **[Download the installer](https://github.com/pavlesuto-private/TCG-Dream-Arena-Releases/releases/latest/download/TCG-Dream-Arena-Setup.exe)** (Windows 10/11, about 280 MB).
-2. Run it and pick where to install. A shortcut appears on your Desktop.
-3. Play!
+- **Trainer's Rulebook**: turn steps, Pokémon Checkup, every Special Condition, damage, Knock Outs and how to win, with chapter tabs and search. Open it from the battle menu, Help or the Home screen.
+- Click a **Special Condition** chip on a Pokémon to see what it does.
+- Condition reminders now match the real rules (Burned, Confusion damage, retreating while Confused, stacking conditions).
+- **Check for updates** button on the Home screen, and **Appear offline** in Social.
 
-> Windows SmartScreen may warn about an "unrecognised app" because the
-> installer isn't code-signed. Click **More info → Run anyway**.
+[All release notes →](https://github.com/pavlesuto-private/TCG-Dream-Arena-Releases/releases)
 
-### Updates are automatic
-From version 1.9.10, the game checks for updates by itself. When a new
-version is out, the **Check for Updates** tab on the home screen turns gold.
-Click it and the game downloads the update, checks it, installs it and
-restarts. **Your saves, collection and decks are never touched.**
+## Screenshots
 
-Already have an older version without in-game updates? Run the installer
-above once. It updates in place and keeps your saves.
+<div align="center">
+<img src="screenshots/online-battle-timers.jpg" width="49%" alt="An online battle on the playmat with side clocks showing each player's turn timer">
+<img src="screenshots/booster-box-opening.jpg" width="49%" alt="Opening a Jungle booster box as 15 packs burst out">
+<img src="screenshots/booster-box-summary.jpg" width="49%" alt="Booster box summary listing every card pulled, with keep and sell options">
+<img src="screenshots/card-inspect.jpg" width="49%" alt="Inspecting a holographic Charizard card with its full text">
+<img src="screenshots/rulebook.jpg" width="49%" alt="The Trainer's Rulebook open on the What you do on your turn spread">
+<img src="screenshots/shop-singles.jpg" width="49%" alt="The shop selling single cards with prices, filters and card details">
+<img src="screenshots/deck-manager.jpg" width="49%" alt="Deck manager with folders, deck boxes and deck details">
+</div>
 
----
+## Features
 
-## 🎮 What you can do
-
+### Battles and rules accuracy
 | | |
 |---|---|
-| 👥 **Friends & online** | Always-on official server: add friends by friend code, see who's online or in a match, invite them to a private battle, and optionally back up your profile to the cloud. |
-| ⚔️ **Single player** | Battle a tactical CPU at several difficulties. |
-| 🏅 **Gym Leader Challenge** | Beat the Gym Leaders with their themed decks and earn badges. |
-| ⚡ **Quick Challenge** | One-off battles with twists: fewer Prizes, Sudden Death, Fast Energy, Random Stadium, Type Clash and more. Win coins and cards (3 rewarded wins a day). |
-| 🌐 **Multiplayer** | A server browser like the classic shooters: save favourite servers, see open rooms, create public or private rooms with your own rules, join with a click or a code, or spectate a match in progress. |
-| 🏆 **Tournaments** | Bracket tournaments with entry fees and growing prizes. |
-| 🃏 **Collection & Card Dex** | Collect the classic sets, plus promos. Sort, filter and inspect every card. |
-| 🛒 **Shop & packs** | Earn coins by playing and spend them on booster packs, theme decks and singles. |
-| 🧰 **Decks** | 3D deck boxes with real cover art, favourites, clear "deck invalid" reasons, a full deck builder and test draws. Share decks with team codes. |
-| 🎯 **Tasks, achievements & profile** | Weekly tasks, achievements, avatar frames that level up with you, match history, win streaks. |
-| 🧪 **Play yourself** | Control both sides to test decks and card combos. |
-| 🧑‍🎤 **Character Creator** | Design your own anime-style trainer (male or female): hair, outfits, caps, accessories. Unlock extra wardrobe items with coins. |
-| 🪪 **Trainer Card** | A holo Trainer ID with your level, a badge case for Gym badges, a showcase for your 3 favourite cards, stats and medals. |
-| 🖼️ **Level frames** | 11 hand-painted portrait frames from Trainer to Legendary, plus glowing prestige tiers. |
-| 🎴 **Playmats** | 21 animated, full-screen playmats: lava, ocean, forest, lightning, cosmic, marble and classic felt. |
-| 📦 **Pack opening** | Pull across the top of a pack to tear it open; Rare Holo pulls get a special holo reveal. |
+| **Classic rules** | Old-school WotC-era rules: Pokémon Powers, Special Conditions, Pokémon Checkup, Trainers and special Energy work as printed. |
+| **Single player** | CPU opponents with difficulty levels, Gym Leader challenges and theme decks. |
+| **Trainer's Rulebook** | Built-in illustrated rulebook with search; click any condition in battle to read its rule. |
+| **Card inspect** | Read any card in full detail in battle or in your collection. |
 
-### Faithful rules
-The game follows the original-era rules closely, including tricky cards:
-Pokémon Powers (Rain Dance, Damage Swap, Muk's Toxic Gas), Dark Pokémon,
-Stadiums like Narrow Gym, Ditto's Transform, Brock's Protection, Koga's
-Ninja Trick and many more. Every card's attacks and effects are covered by
-an automated test suite with hundreds of tests.
+### Online
+| | |
+|---|---|
+| **Official server** | Always on. No IPs, ports or hosting needed. |
+| **Friends and chat** | Friends list, online presence, private chat and Appear offline. |
+| **Battle invites** | Invite a friend straight into a match, or open a public room. |
+| **Best of 3** | Single games or full Best of 3 matches. |
+| **Timers** | Turn and match clocks keep games moving. |
+| **Pause and AFK** | Players can pause; inactive opponents are detected. |
+| **Spectating** | Watch live matches with reactions and stats. |
+| **Reconnect** | Dropped connection? Rejoin your match where you left off. |
 
----
+### Collection
+| | |
+|---|---|
+| **Booster packs** | Open packs from the classic sets. |
+| **Booster boxes** | Open a whole box at once, then keep or sell what you pulled. |
+| **Card Dex** | Track every card you own and every card still missing. |
+| **Shop and Discount Friday** | Buy singles, packs and boxes, with discounts every Friday. |
+| **Decks** | Deck builder with folders and deck boxes. |
 
-## 🌐 Playing with friends
+### Progress
+| | |
+|---|---|
+| **Dream Pass** | Level up by playing and unlock rewards. |
+| **Achievements** | Achievements with titles and badges. |
+| **Showcase** | Show off your favourite cards on your public Trainer Card. |
+| **Daily login** | Rewards for coming back each day. |
 
-1. Open **Multiplayer** and add the host's server to your **favourites**
-   (IP, or IP:port). It shows whether the server is online, its ping and
-   how many rooms are open.
-2. **Create a room**: choose Standard or Custom rules, public or private,
-   and your deck. Private rooms get a short code to share.
-3. **Join** a waiting room with one click, or type a friend's code.
-   In a Custom room you see the rules and accept them before anything is dealt.
-4. Rooms already playing can be **spectated**. Spectators can never see
-   hands, Prize cards or deck order.
+### Extras
+| | |
+|---|---|
+| **Energy Pool** | A mini-game to play between battles. |
+| **Cosmetics** | Playmats, sleeves, coins, deck boxes and more. |
 
-Everyone needs the same game version to play together. If yours is too old,
-the game offers to update right there.
+Which cards are strongest? See the **[card tier list](https://play.tcgdreamarena.org/meta)**.
 
----
+## Install and automatic updates
 
-## 💾 Your data
+1. **[Download the installer](https://github.com/pavlesuto-private/TCG-Dream-Arena-Releases/releases/latest/download/TCG-Dream-Arena-Setup.exe)** (Windows 10/11, about 724 MB).
+2. Run it and choose where to install. A Desktop shortcut is created.
+3. Play!
 
-- Saves live in `%APPDATA%\TCGDreamArena` on your PC. Nothing is uploaded.
-- Updates and reinstalls keep your profile, collection and decks.
-- If the game ever crashes, a report is saved to the game's `logs` folder.
-  Send the newest `crash_*.log` to the developer to get it fixed.
+**Updates:** the game tells you when a new version is out, and you can press **Check for updates** on the Home screen at any time. Updates install over the existing game and **your saves are never touched**.
 
----
+> **Windows SmartScreen** may show "Windows protected your PC" because the installer isn't code-signed. Click **More info → Run anyway**.
 
-## ❓ FAQ
+## System requirements
 
-**Is this an official Pokémon product?**
-No. It's a non-commercial fan project. Pokémon and all related names and
-artwork are trademarks of Nintendo, Creatures Inc. and GAME FREAK inc.
+| | Minimum |
+|---|---|
+| OS | Windows 10 or 11, 64-bit |
+| Disk | About 1.5 GB free |
+| Network | Internet connection for online play and updates |
 
-**Does it cost anything?**
-No. There are no payments; coins are earned only by playing.
+## FAQ
 
-**Mac or Linux?**
-Only Windows installers are published here.
+**Where are my saves?**
+In `%APPDATA%\TCGDreamArena` (paste it into the Explorer address bar). Your profile, collection and decks live there, separate from the install folder.
 
----
+**How do I back up my progress?**
+Copy the `%APPDATA%\TCGDreamArena` folder somewhere safe. For cloud backup, link an email address to your account in the game.
 
-<div align="center"><sub>Made with ❤️ for friends who miss the original TCG.</sub></div>
+**Will updating or reinstalling delete my progress?**
+No. The installer never touches your save folder.
+
+**Is it free?**
+Yes, completely free.
+
+**I played 1.9.x. What changed?**
+2.0.0 moved to a brand-new client with an always-on official server. Just install the latest version.
+
+## Disclaimer
+
+TCG Dream Arena is a free, non-commercial fan project. It is **not affiliated with, endorsed by or sponsored by** Nintendo, Creatures Inc., GAME FREAK inc. or The Pokémon Company.
+Pokémon and all related names and artwork are © Nintendo / Creatures Inc. / GAME FREAK inc. / The Pokémon Company.
